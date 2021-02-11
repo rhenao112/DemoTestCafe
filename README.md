@@ -10,47 +10,47 @@ Para instalar TestCafé se deben seguir los siguientes pasos:
 
 * Instalar TestCafé
 
-```
-npm install -g testcafe
-```
+	```
+	npm install -g testcafe
+	```
 
 * Crear Test
 
 	* Se debe crear un archivo con el nombre que queremos asignar al test, para este ejemplo será:
 
-	```
-	BuyEveningDress.js
-	```
+		```
+		BuyEveningDress.js
+		```
 
 	* Se deben crear las clases que representan las vistas de usuario, para este ejemplo serán: 
 
-	```
-	HomePhpTravelsPage.js
-	HomeYourLogoPage.js
-	OrderPage.js
-	PrintedDressPage.js
-	PurchaseSummaryPage.js
-	```
+		```
+		HomePhpTravelsPage.js
+		HomeYourLogoPage.js
+		OrderPage.js
+		PrintedDressPage.js
+		PurchaseSummaryPage.js
+		```
 
 	* Se debe crear el archivo de configuración el cual contenga las versiones a utilizar de las librerías, así como los scripts de ejecución, para este ejemplo será:  
 
-	```
-	package.json
-	```
+		```
+		package.json
+		```
 
 	* Se debe ejecutar el comando:
 
-	```
-	npm i
-	```
+		```
+		npm i
+		```
 
 * Ejecutar el test
 
-```
-npm test
-```
+	```
+	npm test
+	```
 
-#NOTA: # Por orden se deberían estructurar las clases en paquetes. 
+_NOTA: _ Por orden se deberían estructurar las clases en paquetes. 
 
 ## ✒️ Autores ✒️
 * **Rigoberto Henao** - **Sophos Solutions** - [rhenao112](https://github.com/rhenao112)
