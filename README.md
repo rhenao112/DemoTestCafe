@@ -16,7 +16,7 @@ npm install -g testcafe
 
 * Crear Test
 
-* **Se debe crear un archivo con el nombre que queremos asignar al test, para este ejemplo será:
+	* Se debe crear un archivo con el nombre que queremos asignar al test, para este ejemplo será:
 
 ```
 BuyEveningDress.js
