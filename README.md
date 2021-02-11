@@ -50,7 +50,7 @@ Para instalar TestCafé se deben seguir los siguientes pasos:
 	npm test
 	```
 
-_NOTA: _ Por orden se deberían estructurar las clases en paquetes. 
+**NOTA:** Por orden se deberían estructurar las clases en paquetes. 
 
 ## ✒️ Autores ✒️
 * **Rigoberto Henao** - **Sophos Solutions** - [rhenao112](https://github.com/rhenao112)
