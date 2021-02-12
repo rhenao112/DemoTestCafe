@@ -1,0 +1,18 @@
+{
+  "name": "TestCafeSophos",
+  "version": "1.0.0",
+  "description": "Ejemplo de compra de un vestido con TestCafe",
+  "engines": {
+    "node": "14.7.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "testcafe": "./node_modules/.bin/testcafe",
+    "test": "npm run testcafe chrome tests/"
+  },
+  "author": "Rigoberto Henao",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "testcafe": "^1.10.0"
+  }
+}

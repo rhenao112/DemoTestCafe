@@ -19,13 +19,13 @@ Para instalar TestCafé se deben seguir los siguientes pasos:
 	* Se debe crear un archivo con el nombre que queremos asignar al test, para este ejemplo será:
 
 		```
-		BuyEveningDress.js
+		BuyEveningDressTest.js
+		BuyEveningDressTestFail.js
 		```
 
 	* Se deben crear las clases que representan las vistas de usuario, para este ejemplo serán: 
 
 		```
-		HomePhpTravelsPage.js
 		HomeYourLogoPage.js
 		OrderPage.js
 		PrintedDressPage.js
